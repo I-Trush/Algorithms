@@ -52,6 +52,7 @@ def eratosfen(N):
         print(k, "-", 'простое' if A[k] else 'составное')
 
 
+
 if __name__ == '__main__':
     def test_array():
         A1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
